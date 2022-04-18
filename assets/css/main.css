@@ -1,0 +1,8 @@
+.bg-login-image {
+  background: url(https://images.unsplash.com/photo-1532012197267-da84d127e765?ixid=MnwxMjA3fD88MHxwaG90by1wYWdifHx8fGVufD88fHx8&ixlib=rb.1.2.1&auto=format&fit=crop&w=800&q80);
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-size: auto;
+  background-position-x: center;
+  background-size: cover;
+}
