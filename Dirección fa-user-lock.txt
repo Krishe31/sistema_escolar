@@ -1,0 +1,8 @@
+Direccion fa-user-lock
+Dashboard
+Profesores fa-users
+Alumnos fa-book-reader
+Materias fa-book
+Grupos fa-graduation-cap
+Horarios fa-calendar-alt
+Lecciones fa-chalkboard-teacher

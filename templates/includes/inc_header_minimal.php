@@ -20,6 +20,6 @@
   <?php require_once INCLUDES.'inc_styles.php'; ?>
 </head>
 
-<body class="bg-gradient-primary"">
+<body  style='background: #00005c; color: white;' >
     <!-- Page Wrapper -->
     <div id="wrapper">
